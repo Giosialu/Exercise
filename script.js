@@ -1,3 +1,3 @@
 window.onload = function() {
-	document.body.appendChild(document.createElement("p")).innerHTML = "Hello World";
+	document.body.appendChild(document.createElement("p")).innerHTML = "I Love Cats";
 }
